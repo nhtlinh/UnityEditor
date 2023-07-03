@@ -1,0 +1,11 @@
+10 10
+cow path path path ground stone ground ground stone ground 
+stone ground stone path stone ground ground ground ground stone 
+ground ground stone path stone ground stone stone stone ground 
+stone ground ground path path path stone ground ground ground 
+stone ground stone stone stone path path path stone ground 
+ground ground ground ground stone ground stone path path path 
+stone stone ground ground ground ground ground stone ground path 
+ground ground ground stone ground stone ground ground stone path 
+stone stone ground stone ground stone stone ground ground mush 
+stone ground stone ground ground ground ground ground stone stone 
